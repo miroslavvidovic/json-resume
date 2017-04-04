@@ -1,0 +1,159 @@
+{
+  "basics": {
+    "name": "Miroslav Vidović",
+    "label": "IT Engineer",
+    "picture": "http://miroslavvidovic.github.io/assets/images/profile.jpg",
+    "email": "miroslav-vidovic@hotmail.com",
+    "phone": "+387 66 733 451",
+    "website": "http://miroslavvidovic.github.io/",
+    "summary": "Miroslav Vidovic is an IT Engineer and Linux Enthusiast from Bosnia and Herzegovina",
+    "location": {
+      "address": "Oraovac 54",
+      "postalCode": "",
+      "city": "Zvornik",
+      "countryCode": "BiH",
+      "region": "Republika Srpska"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "miroslavvidovic",
+        "url": "https://github.com/miroslavvidovic"
+      },
+      {
+        "network": "Bitbucket",
+        "username": "vidovicmiroslav",
+        "url": "https://bitbucket.org/vidovicmiroslav"
+      },
+      {
+        "network": "Linkedin",
+        "username": "",
+        "url": "https://www.linkedin.com/in/miroslav-vidovi%C4%87-3a0b2295/"
+      },
+      {
+        "network": "Facebook",
+        "username": "",
+        "url": "https://www.facebook.com/miroslav.vidovic.1"
+      },
+      {
+        "network": "Twitter",
+        "username": "",
+        "url": "https://twitter.com/VidovicMiroslav"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "M&V Group",
+      "position": "System Engineer",
+      "website": "http://www.infobel.com/en/bosniaandherzegovina/m_v_group_doo_zvornik/zvornik/BA100014022/businessdetails.aspx",
+      "startDate": "2015-03-01",
+      "endDate": "2016-03-01",
+      "summary": "M&V Group Doo is a small, fairly new organization in the transport and commerce industry located in Zvornik, Bosnia-Herzegovina.",
+      "highlights": [
+        "Managing and monitoring of systems and infrastructure",
+        "Installation, testing and maintenance of operating systems and application software",
+        "Technical support"
+      ]
+    },
+    {
+      "company": "Freelancing",
+      "position": "Web Developer",
+      "website": "",
+      "startDate": "2015-02-01",
+      "endDate": "",
+      "summary": "Freelance work as a software developer. Mostly Web related projects: websites, landing pages, business oriented applications, Web scraping projects.",
+      "highlights": [
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Sinergija University",
+      "area": "Information Technology",
+      "studyType": "Bachelor",
+      "startDate": "2010-09-01",
+      "endDate": "2014-07-11",
+      "gpa": "",
+      "courses": [
+        "Internet and Web technologies",
+        "Software development"
+      ]
+    },
+    {
+      "institution": "Sinergija University",
+      "area": "Information Technology",
+      "studyType": "Master",
+      "startDate": "2014-10-01",
+      "endDate": "2015-11-13",
+      "gpa": "",
+      "courses": [
+        "Digital forensics",
+        "Modern web technologies and applications"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Join the Tech Elite",
+      "date": "2014-07-01",
+      "awarder": "Microsoft Virtual Academy",
+      "summary": "Regional contest for Southeast Europe on the Microsoft Virtual Academy platform. 6th place in the Dev category."
+    },
+    {
+      "title": "M tel App Builder League",
+      "date": "2014-12-01",
+      "awarder": "M tel",
+      "summary": "Mobile applications development contest. Developing mobile applications using the App Builder tool. 1st place in the educational category. 2nd place in the tourism category."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "LAMP stack",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "PHP",
+        "Python"
+      ]
+    },
+    {
+      "name": "Linux",
+      "keywords": [
+        "Ubuntu",
+        "Mint",
+        "Manjaro"
+      ]
+    },
+    {
+      "name": "Shell scripting",
+      "keywords": [
+        "Bash",
+        "Sed",
+        "Awk"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Serbian",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Professional proficiency"
+    },
+    {
+      "language": "German",
+      "fluency": "Basic proficiency"
+    }
+  ],
+  "references": [
+    {
+      "name": "Khalid Hashem, The Brunchery, Qatar",
+      "reference": "Very quick, easy and pleasure to work with."
+    }
+  ]
+}
