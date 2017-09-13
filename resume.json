@@ -56,12 +56,19 @@
       ]
     },
     {
+      "company": "Alumina Ltd.",
+      "position": "Automation Engineer",
+      "website": "http://aluminazv.ba",
+      "startDate": "2017-09-11",
+      "summary": "Alumina Ltd. is one of the leading manufacturers of different types of alumina, hydrates, zeolites and water glass."
+    },
+    {
       "company": "Freelancing",
       "position": "Web Developer",
       "website": "",
       "startDate": "2015-02-01",
       "endDate": "",
-      "summary": "Freelance work as a software developer. Mostly Web related projects: websites, landing pages, business oriented applications, Web scraping projects.",
+      "summary": "Freelance work as a software developer. Mostly Web related projects: websites, web applications, landing pages, web scraping projects.",
       "highlights": [
       ]
     }
@@ -103,7 +110,7 @@
       "title": "M tel App Builder League",
       "date": "2014-12-01",
       "awarder": "M tel",
-      "summary": "Mobile applications development contest. Developing mobile applications using the App Builder tool. 1st place in the educational category. 2nd place in the tourism category."
+      "summary": "Mobile applications development contest. Developing mobile applications with the App Builder tool. 1st place in the educational category. 2nd place in the tourism category."
     }
   ],
   "skills": [
