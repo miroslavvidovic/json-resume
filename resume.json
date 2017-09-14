@@ -4,7 +4,6 @@
     "label": "IT Engineer",
     "picture": "http://miroslavvidovic.github.io/assets/images/profile.jpg",
     "email": "miroslav-vidovic@hotmail.com",
-    "website": "http://miroslavvidovic.github.io/",
     "summary": "Miroslav Vidovic is an IT Engineer and Linux Enthusiast from Bosnia and Herzegovina",
     "location": {
       "address": "Oraovac 54",
@@ -104,13 +103,13 @@
       "title": "Join the Tech Elite",
       "date": "2014-07-01",
       "awarder": "Microsoft Virtual Academy",
-      "summary": "Regional contest for Southeast Europe on the Microsoft Virtual Academy platform. 6th place in the Dev category."
+      "summary": "Regional contest for Southeast Europe on the Microsoft Virtual Academy platform. 6th place in the Software Development category."
     },
     {
       "title": "M tel App Builder League",
       "date": "2014-12-01",
       "awarder": "M tel",
-      "summary": "Mobile applications development contest. Developing mobile applications with the App Builder tool. 1st place in the educational category. 2nd place in the tourism category."
+      "summary": "Developing mobile applications with the App Builder tool. 1st place for the Best educational application and 2nd place in the category Promoting local tourism."
     }
   ],
   "skills": [
@@ -129,7 +128,7 @@
       "name": "Linux",
       "keywords": [
         "Ubuntu",
-        "Mint",
+        "Fedora",
         "Manjaro"
       ]
     },
