@@ -65,3 +65,4 @@ typings/
 
 # Ignore all html files
 *.html
+tags
