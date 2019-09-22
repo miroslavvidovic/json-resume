@@ -2,11 +2,11 @@
   "basics": {
     "name": "Miroslav Vidović",
     "label": "IT Engineer",
-    "picture": "http://miroslavvidovic.github.io/assets/images/profile.jpg",
+    "picture": "http://miroslavvidovic.github.io/assets/images/proflile-mic.jpg",
     "email": "miroslav-vidovic@hotmail.com",
     "summary": "Miroslav Vidovic is an IT Engineer and Linux Enthusiast from Bosnia and Herzegovina",
     "location": {
-      "address": "Oraovac 54",
+      "address": "",
       "postalCode": "",
       "city": "Zvornik",
       "countryCode": "BiH",
@@ -37,6 +37,11 @@
         "network": "Twitter",
         "username": "",
         "url": "https://twitter.com/VidovicMiroslav"
+      },
+      {
+        "network": "Instagram",
+        "username": "_myroslaw_",
+        "url": "https://www.instagram.com/_myroslaw_/"
       }
     ]
   },
@@ -61,9 +66,11 @@
       "startDate": "2017-09-11",
       "summary": "Alumina Ltd. is one of the leading manufacturers of different types of alumina, hydrates, zeolites and water glass.",
       "highlights": [
-        "Network management",
+        "Network monitoring and management",
         "Software development",
-        "Technical support"
+        "Technical support",
+        "Managing 400+ windows machines",
+        "Server administration (Windows and Linux)"
       ]
     },
     {
@@ -135,6 +142,14 @@
         "Ubuntu",
         "Fedora",
         "Manjaro"
+      ]
+    },
+    {
+      "name": "Microsoft",
+      "keywords": [
+        "Active directory",
+        "Exchange server",
+        "Powershell"
       ]
     },
     {

@@ -6,6 +6,10 @@ Resume data in JSON format used to generate personal websites with [JSON Resume]
 
 - Gulp
 
+```
+npm install gulp-cli -g
+```
+
 ## Deployment
 
 Install node dependencies from package.json
