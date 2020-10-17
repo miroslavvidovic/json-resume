@@ -69,6 +69,7 @@
         "Network monitoring and management",
         "Software development",
         "Technical support",
+        "System administration",
         "Managing 400+ windows machines",
         "Server administration (Windows and Linux)"
       ]
@@ -86,7 +87,6 @@
   ],
   "education": [
     {
-      "institution": "Sinergija University",
       "area": "Information Technology",
       "studyType": "Bachelor",
       "startDate": "2010-09-01",
@@ -98,7 +98,6 @@
       ]
     },
     {
-      "institution": "Sinergija University",
       "area": "Information Technology",
       "studyType": "Master",
       "startDate": "2014-10-01",
@@ -158,6 +157,12 @@
         "Bash",
         "Sed",
         "Awk"
+      ]
+    },
+    {
+      "name": "Other",
+      "keywords": [
+        "Zabbix"
       ]
     }
   ],
